@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/blogpostdatabase",
+    "prod_uri":"mysql://root:@localhost/blogpostdatabase",
+    "fb_url":"https://www.facebook.com/",
+    "tw_url":"https://twitter.com/",
+    "gh_url":"https://github.com/",
+    "blog_name":"start blog",
+    "gmail_user": "dummy1@gmail.com",
+    "gmail_password": "dummpypassword",
+    "admin_user": "dummy",
+    "admin_password": "dummypassword",
+    "uploader_location": "D:\\python\\Flask_attempt1\\static"
+  }
+
+}
